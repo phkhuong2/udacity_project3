@@ -7,4 +7,4 @@ This repository contains the starter code for the **Ensuring Quality Releases** 
 - Follow the classroom instructions, and check the rubric before a submission. 
 
 ## Suggestions and Corrections
-Feel free to submit PRs to this repo should you have any proposed changes. 
+Feel free to submit PRs to this repo should you have any proposed changes1.
